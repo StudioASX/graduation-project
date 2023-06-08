@@ -5,7 +5,7 @@
 A Study on User Experience in Social E-commerce based on Text Processing and Machine Learning
 
 <br>
-<div style="font-weight:bold"> 课程信息：本科毕业论文</div>
+<div style="font-weight:bold"> 课程信息：本科毕业论文（设计）</div>
 <br>
 <div style="font-weight:bold"> 指导教师：杜晨蔚</div>
 <br>
